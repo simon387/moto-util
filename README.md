@@ -2,7 +2,7 @@
 
 ## vinilo
 
-+ 41.4411039,2.1761719
++ +34 615 12 60 13
 + https://www.instagram.com/azerograffics/
 
 ## BMW barcelona

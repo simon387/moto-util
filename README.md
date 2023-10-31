@@ -33,6 +33,10 @@
 
 + Puig 4051C Protector Depósito Modelo Performance Símil Carbono
 
+## batteria
+
++ dimensioni sicuramente compatibili: 15 x 8,7 x 9,3 centímetros
+
 ## var
 
 + GB RACING UPGRADED LOGO BLOCK 2023

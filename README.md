@@ -35,7 +35,9 @@
 
 ## batteria
 
++ https://bateriasadomicilio.es/baterias-barcelona/
 + cambio batteria bmw: martedì, novembre 5, 2019, 182euro
++ cambio batteria hospitalet: novembre 1, 2023, 112euro
 + ytz10s
 + dimensioni sicuramente compatibili: 15 x 8,7 x 9,3 centímetros
 

@@ -35,6 +35,7 @@
 
 ## batteria
 
++ ytz10s
 + dimensioni sicuramente compatibili: 15 x 8,7 x 9,3 centímetros
 
 ## var

@@ -45,3 +45,9 @@
 
 + GB RACING UPGRADED LOGO BLOCK 2023
 + https://www.wrs.it/
+
+## logs
+
+### 2023 / 11 / 09
+
+Tolgo la moto dal parcheggio, la spengo per chiudere il portone, prima di riaccenderla noto un liquido acqua / olio NON nero sgocciolare poco dalla fiancata sinistra del motore, dopo il pignone; smette, riaccendo la moto e la porto dal meccanico che dice che in inverno a motore freddo potrebbe essere solo acqua; teniamo la cosa monitorata.

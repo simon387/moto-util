@@ -28,7 +28,6 @@
 | Mpm580a       |  PROT LATERALES RIZOMA AZUL   | 1   | 65.83          | [link](https://www.motocard.com/protege-motor/rizoma-pm580u.aspx)                                                    | yes      |
 | M110a26399    |        LEVA FRENO RCS         | 1   | 139.0          | [link](www.google.it)                                                                                                | no       |
 
-
 ## amazon
 
 + Puig 4051C Protector Depósito Modelo Performance Símil Carbono
@@ -46,8 +45,14 @@
 + GB RACING UPGRADED LOGO BLOCK 2023
 + https://www.wrs.it/
 
+## carbon
+
++ https://carbon2race.com/product/bmw/bmw-s-1000rr-carbon-fiber-parts/s1000rr-2015-2018/
+
 ## logs
 
 ### 2023 / 11 / 09
 
-Tolgo la moto dal parcheggio, la spengo per chiudere il portone, prima di riaccenderla noto un liquido acqua / olio NON nero sgocciolare poco dalla fiancata sinistra del motore, dopo il pignone; smette, riaccendo la moto e la porto dal meccanico che dice che in inverno a motore freddo potrebbe essere solo acqua; teniamo la cosa monitorata.
+Tolgo la moto dal parcheggio, la spengo per chiudere il portone, prima di riaccenderla noto un liquido acqua / olio NON nero sgocciolare poco dalla fiancata
+sinistra del motore, dopo il pignone; smette, riaccendo la moto e la porto dal meccanico che dice che in inverno a motore freddo potrebbe essere solo acqua;
+teniamo la cosa monitorata.

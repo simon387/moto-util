@@ -56,3 +56,8 @@
 Tolgo la moto dal parcheggio, la spengo per chiudere il portone, prima di riaccenderla noto un liquido acqua / olio NON nero sgocciolare poco dalla fiancata
 sinistra del motore, dopo il pignone; smette, riaccendo la moto e la porto dal meccanico che dice che in inverno a motore freddo potrebbe essere solo acqua;
 teniamo la cosa monitorata.
+
+### 2024 / 05 / ??
+
+Alla fine c'è perdita di benzina da sotto il serbatoglio, connettore pompa benzina maschio e femmina, provo a cambiare il femmina
+

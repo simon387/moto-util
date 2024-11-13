@@ -62,3 +62,8 @@ teniamo la cosa monitorata.
 
 Alla fine c'è perdita di benzina da sotto il serbatoglio, connettore pompa benzina maschio e femmina, provo a cambiare il femmina
 
+## Codici errore
+
+https://bmwfault.codes/
+
++ `LO3`? 2024-11-13

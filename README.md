@@ -28,6 +28,8 @@
 | Mpm580a       |  PROT LATERALES RIZOMA AZUL   | 1   | 65.83          | [link](https://www.motocard.com/protege-motor/rizoma-pm580u.aspx)                                                    | yes      |
 | M110a26399    |        LEVA FRENO RCS         | 1   | 139.0          | [link](https://www.google.it)                                                                                        | no       |
 
++ https://www.rizoma.com/prodotto/proguard-system/LP010/proguard-system-street-edition-lp010/motorbike/8756/bmw/s-1000-rr/
+
 ## amazon
 
 + Puig 4051C Protector Depósito Modelo Performance Símil Carbono

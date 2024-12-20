@@ -62,6 +62,14 @@ teniamo la cosa monitorata.
 
 Alla fine c'è perdita di benzina da sotto il serbatoglio, connettore pompa benzina maschio e femmina, provo a cambiare il femmina
 
+### 2024 / 09
+
+Tagliando a Pavia
+
+### 2024 / 12 / 20
+
+Accorto che manca il rizoma paramani sx (parte finale in plastica)
+
 ## Codici errore
 
 https://bmwfault.codes/

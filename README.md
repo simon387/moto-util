@@ -77,3 +77,7 @@ Accorto che manca il rizoma paramani sx (parte finale in plastica)
 https://bmwfault.codes/
 
 + `LO3`? 2024-11-13
+
+## links
+
++ https://www.motoxpricambi.com/it/s-1/home/marca-bmw/modello-s_1000_rr/anno-2015/parti-kit_adesivi

@@ -62,7 +62,7 @@ teniamo la cosa monitorata.
 
 ### 2024 / 05 / ??
 
-Alla fine c'è perdita di benzina da sotto il serbatoglio, connettore pompa benzina maschio e femmina, provo a cambiare il femmina
+Alla fine c'è perdita di benzina da sotto il serbatoglio, connettore pompa benzina maschio e femmina, provo a cambiare il femmina. Risolto con acquisto nuovo e cambio guarnizione.
 
 ### 2024 / 09
 
@@ -77,6 +77,11 @@ Accorto che manca il rizoma paramani sx (parte finale in plastica)
 https://bmwfault.codes/
 
 + `LO3`? 2024-11-13
+
+## gomme
+
++ `front : DIABLO ROSSO III        -  DOT 3820`
++ `back  : DIABLO ROSSO III 190/55 -  DOT 2221`
 
 ## links
 

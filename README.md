@@ -42,6 +42,7 @@
 + cambio batteria hospitalet: novembre 1, 2023, 112euro
 + ytz10s
 + dimensioni sicuramente compatibili: 15 x 8,7 x 9,3 centímetros
++ oggi 2026_07_04 mi ha lasciato a piedi la batteria
 
 ## var
 

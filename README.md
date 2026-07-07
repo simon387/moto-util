@@ -43,6 +43,7 @@
 + ytz10s
 + dimensioni sicuramente compatibili: 15 x 8,7 x 9,3 centímetros
 + oggi 2026_07_04 mi ha lasciato a piedi la batteria
++ 2026_07_07 moto dal meccanico, batteria presa nuova ma l'alternatore non carica come dovrebbe, tutte le fasi a 13v una 4v, ordinato alternatore nuovo non originale
 
 ## var
 

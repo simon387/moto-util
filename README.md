@@ -89,3 +89,4 @@ https://bmwfault.codes/
 
 + https://www.motoxpricambi.com/it/s-1/home/marca-bmw/modello-s_1000_rr/anno-2015/parti-kit_adesivi
 + https://www.outletmoto.com/
++ https://www.carenadosyaccesoriosmoto.com/carenados-bmw-s1000rr-2015-2016/2796-116332-bmw-s1000rr-2015-2016.html#
